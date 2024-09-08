@@ -10,7 +10,7 @@
 
 # 📋 Requirements
 - Python 3.x 🐍
-- pytube library 📦
+- [pytube](https://github.com/pytube/) library 📦
 - whisper library 📦
 - static-ffmpeg library 📦
 
@@ -45,6 +45,3 @@ This project is under No License: This code is for personal use only. Copying, m
 ## 📫 Contact:
 Feel free to reach out if you have any questions!
 **Instagram**: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)
-
-## Credits
-PyTube: https://github.com/pytube/
